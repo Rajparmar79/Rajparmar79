@@ -27,17 +27,8 @@ Here are some highlighted projects that I'm proud of:
 1. Django Blog() - As part of the Django Blog project, I played a key role in developing a feature-rich blogging platform using the Django web framework. The project aimed to provide a user-friendly interface for creating, editing, and managing blog posts, along with features such as user authentication, commenting, and categorization.
 2. Create Word Counter app using Django() -The Word Counter App project aimed to develop a web application using the Django framework that allows users to analyze and count the number of words in a given text. The primary objective was to provide a simple and efficient tool for users to assess the word count in a document, aiding in various writing and editing tasks.
 3. Wikipedia search app()- Developed a Wikipedia Search App using Django, Python, and the Wikipedia API to create a streamlined and user-friendly interface for searching and accessing Wikipedia articles.
-For a complete list of my projects, check out the [JOKES A](https://github.com/yourusername?tab=repositories) tab.
+For a complete list of my projects, check out the [JOKES A](https://github.com/Rajparmar79/jokes.git) tab.
 
-## Recent Blog Posts
-
-I occasionally write about [Your Blog Topic/Theme]. Check out some of my latest blog posts:
-
-1. [Blog Post Title 1](Link to Blog Post 1) - Brief description.
-2. [Blog Post Title 2](Link to Blog Post 2) - Brief description.
-3. [Blog Post Title 3](Link to Blog Post 3) - Brief description.
-
-For more, visit my [Blog](Link to your Blog/Website).
 
 ## Connect with Me
 
