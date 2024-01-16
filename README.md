@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Parmar Raju, a passionate Python Developer  fr
 - 👯 I’m looking to collaborate on Python with Al Types of Projects
 - 💬 Ask me about anything except somethings
 - 📫 How to reach me: rajuparmar9996@gmail.com 
-- 😄 Pronouns: Raj
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact:  I am health conscious 
 
 ## My Tech Stack
