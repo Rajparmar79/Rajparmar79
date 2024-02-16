@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm Parmar Raju, a passionate Python Developer  fr
 
 - Languages: Python,Django
 - Frontend: HTML,CSS,Javascript 
-- Backend: Python,Django
-- Databases: MySQL,xampp
+- Backend: Python
+- Databases: MongoDB,xampp
 - Tools: Visual Studio
 
 ## Projects
